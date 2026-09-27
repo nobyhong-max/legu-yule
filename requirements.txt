@@ -1,0 +1,2 @@
+# optional; stdlib-only harness works without installs
+requests>=2.31.0
